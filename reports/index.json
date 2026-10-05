@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.21.0"
+  },
+  "entries": [
+    {
+      "id": "20261005-215725-shgm",
+      "title": "Pocóng",
+      "commanders": [
+        "Pocóng"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-10-05T14:57:25.000Z",
+      "dateEnd": "2026-10-05T15:07:36.992Z",
+      "dateLabel": "10/5/2026, 9:57:25 PM - 10/5/2026, 10:07:36 PM",
+      "url": "https://yugnam.github.io/Rapot_WvW/?report=20261005-215725-shgm",
+      "publishedBy": "yugnam",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 79
+      }
+    }
+  ]
+}
