@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261101-215947-8h10",
+      "title": "Tríckstars",
+      "commanders": [
+        "Tríckstars"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-11-01T14:59:47.000Z",
+      "dateEnd": "2026-11-01T15:33:25.923Z",
+      "dateLabel": "11/1/2026, 9:59:47 PM - 11/1/2026, 10:33:25 PM",
+      "url": "https://yugnam.github.io/Rapot_WvW/?report=20261101-215947-8h10",
+      "publishedBy": "yugnam",
+      "summary": {
+        "borderlandsPct": 0.4523809523809524,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261018-221917-nr64",
       "title": "Pray For My Boons",
       "commanders": [
